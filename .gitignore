@@ -1,9 +1,10 @@
 # Beroenden (läggs till vid utvecklingsstart)
 node_modules/
 
-# Miljövariabler
+# Miljövariabler (mallen backend/.env.example ska committas)
 .env
-.env.*
+!.env.example
+backend/.env
 
 # Bygg och loggar
 dist/
