@@ -7,6 +7,8 @@ Community-plattform för att låna ut och låna vardagsprylar i stället för at
 - [Projektplan (svenska)](./Docs/Projektplan.md) – produktbeskrivning, scope, datamodell och API
 - [Mappstruktur](./Docs/Mappstruktur.md) – mappar och filer i repot
 - [Teckstack](./Docs/Teckstack.md) – fast teknikval för hela produkten
+- [Backend-uppgifter](./Docs/BackendTasks.md) – backend-checklista
+- [Frontend-uppgifter](./Docs/FrontendTasks.md) – frontend-checklista (utan UI-design)
 
 ## Projektstruktur
 
